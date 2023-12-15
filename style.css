@@ -1,0 +1,26 @@
+h1{
+   
+    color:mediumvioletred;
+    background-color: aqua;
+    position: relative;
+    padding:20px;
+    margin-left: 500px;
+    margin-right: 500px
+    
+}
+h2{
+    color:darkcyan;
+    font-family:serif;
+}
+h3{
+    color: firebrick;
+    text-decoration-line: underline;
+    font-family: cursive;
+}
+img{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    border-radius:50%;
+}
+
